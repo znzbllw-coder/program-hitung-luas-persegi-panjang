@@ -6,10 +6,10 @@ PERANCANGAN ALGORITMA (PSEUDOCODE)
 
 A. IDENTITAS SISWA
 
-Nama Lengkap :
-Kelas        :
-Nomor Absen  :
-Username GitHub :
+Nama Lengkap : Rava Zanzabila Dara
+Kelas        : XII.7
+Nomor Absen  : 31
+Username GitHub : znzbllw-coder
 
 B. JUDUL PROGRAM
 
@@ -27,14 +27,15 @@ Jelaskan tujuan dan manfaat program yang dibuat.
 E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 1. INPUT:
-   Tuliskan data yang dimasukkan pengguna.
+   - input panjang persegi panjang
+   - input lebar persegi panjang
 
 2. PROSES:
-   Tuliskan langkah pengolahan atau perhitungan
-   yang dilakukan program.
+   - hitung luas persegi panjang
+   - rumus : L = p*1
 
 3. OUTPUT:
-   Tuliskan hasil yang akan ditampilkan program.
+   tampil hasil luas persegi panjang
 
 F. ALGORITMA / PSEUDOCODE
 
@@ -43,11 +44,10 @@ sistematis dan logis.
 
 MULAI
 
-   1. Deklarasikan variabel yang diperlukan.
-   2. Masukkan data (INPUT).
-   3. Lakukan proses pengolahan data.
-   4. Gunakan percabangan IF-ELSE jika diperlukan.
-   5. Gunakan perulangan FOR/WHILE jika diperlukan.
-   6. Tampilkan hasil (OUTPUT).
+   1. Deklarasikan variabel luas, panjang,lebar,dan luas.
+   2. input nilai panjang.
+   3. input nilai lebar.
+   4. hitung luas = panjang = lebar.
+   5. tampilkan nilai luas.
 
 SELESAI
